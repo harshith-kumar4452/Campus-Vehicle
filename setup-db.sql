@@ -90,5 +90,5 @@ CREATE TABLE IF NOT EXISTS public.admins (
 
 -- Seed Data
 INSERT INTO public.admins (email, password)
-VALUES ('kumarharshith4452@gmail.com', '123456789')
+VALUES ('admin@vnrvjiet.in', '123456789')
 ON CONFLICT (email) DO NOTHING;

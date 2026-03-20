@@ -56,7 +56,7 @@ npm run dev
 ## 🔐 Administrative Access
 To access the **Super Admin Dashboard**:
 - **Role**: Select "Admin" on the landing page.
-- **Email**: `kumarharshith4452@gmail.com`
+- **Email**: `admin@vnrvjiet.in`
 - **Password**: `123456789`
 
 ## 📂 Project Structure
