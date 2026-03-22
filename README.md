@@ -33,10 +33,6 @@ npm install
 ### 2. Configure Environment Variables
 Create a **`.env`** file in the root directory. You can create your own Supabase project keys or use the predefined keys below:
 
-```env
-VITE_SUPABASE_URL=https://nuxqjsfylcfzadpyrpyz.supabase.co
-VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im51eHFqc2Z5bGNmemFkcHlycHl6Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzQwMTg0ODYsImV4cCI6MjA4OTU5NDQ4Nn0.CLGGdQdXsn7F1w6hVuBlo7NwiwssZibzETBbWfkP7As
-```
 
 ### 3. Database Initialization
 Go to the **SQL Editor** in your Supabase Dashboard and run the following scripts in order:
